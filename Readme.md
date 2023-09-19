@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Artem Karelov](https://up.htmlacademy.ru/htmlcss/38/user/470011).
-* Наставник: `Неизвестно`.
+* Наставник: [Дина Шарипова] (https://htmlacademy.ru/profile/id1418957).
 
 ---
 
